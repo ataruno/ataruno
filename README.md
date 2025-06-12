@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=ataruno&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ataruno/ataruno/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ataruno/ataruno/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ataruno/ataruno/master/img/snake.svg">
+</picture>
