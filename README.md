@@ -8,7 +8,7 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataruno&theme=vue-dark&layout=compact" />
 </div>
 
-# ⌨Keyboards
+# ⌨ Keyboards
 <div align="left"> 
     <a href="https://github.com/ataruno/A_PIECE_OF_KEYBOARD" target="_blank">
     <img alt="" height="100px" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" /></a>
@@ -19,6 +19,7 @@
 </div>
 
 <details>
+<summary>more...</summary>
 
 ## A_PIECE_OF_KEYBOARD 🍕
 <a href="https://github.com/ataruno/A_PIECE_OF_KEYBOARD" target="_blank">
@@ -49,10 +50,8 @@ Comming soon
 </div>
 
 <details>
-  <summary>一覧</summary>
+  <summary>more...</summary>
 
-  <br />
-  
   ## 🍅PetitPomo  
   <a href="https://github.com/ataruno/PetitPomo" target="_blank">
     <img alt="PetitPomo" src="https://github.com/ataruno/PetitPomo/blob/main/README_image/PetitPomo01.webp" />
