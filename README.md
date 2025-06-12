@@ -2,6 +2,11 @@
 ⌨ I'm a self-made keyboard developer in Japan.  
 😍 I love building custom keyboards, experimenting with firmware like QMK/ZMK, and exploring 3D printing.  
 
+# Links
+[X(Twitter)](https://x.com/ataruno_key)  
+[youtube](https://www.youtube.com/@ataruno_key/featured)  
+[Booth(shop)](https://ataruno.booth.pm/)  
+
 # ⌨Keyboards
 <div align="left"> 
     <a href="https://github.com/ataruno/A_PIECE_OF_KEYBOARD" target="_blank">
