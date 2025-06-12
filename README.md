@@ -12,9 +12,6 @@
 
 ## Keyboards
 
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
-  <img alt="github stats" height="170px" src="https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
-</div>
+<img alt="Top Langs" height="170px" src="https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
 
 
