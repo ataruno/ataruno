@@ -3,9 +3,7 @@
 😍 I love building custom keyboards, experimenting with firmware like QMK/ZMK, and exploring 3D printing.  
 
 # Links
-[X(Twitter)](https://x.com/ataruno_key)  
-[youtube](https://www.youtube.com/@ataruno_key/featured)  
-[Booth(shop)](https://ataruno.booth.pm/)  
+[X(Twitter)](https://x.com/ataruno_key),[youtube](https://www.youtube.com/@ataruno_key/featured),[Booth(shop)](https://ataruno.booth.pm/)  
 
 # ⌨Keyboards
 <div align="left"> 
