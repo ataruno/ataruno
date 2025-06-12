@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm a self-taught developer in Japan.  
+I love building custom keyboards, experimenting with firmware like QMK/ZMK, and exploring 3D printing.  
 
 <!--
 **ataruno/ataruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +21,6 @@ Here are some ideas to get you started:
 	<img src = "https://komarev.com/ghpvc/?username=ataruno&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 
-I'm a self-taught developer in Japan.  
-I love building custom keyboards, experimenting with firmware like QMK/ZMK, and exploring 3D printing.  
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
