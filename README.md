@@ -49,19 +49,22 @@ Comming soon
 </div>
 
 <details>
-    <a href="https://github.com/ataruno/PetitPomo" target="_blank">
-    <img alt="Top Langs" width="600px" src="https://github.com/ataruno/PetitPomo/blob/main/README_image/PetitPomo01.webp" />
-    </a>
 
-    <a href="https://github.com/ataruno/KeymapViewer" target="_blank">
-    <img alt="Top Langs" width="600px" src="https://github.com/ataruno/KeymapViewer/blob/main/readmeimage/KeymapViewer_event.webp" />
-    </a>
+## 🍅PetitPomo
+<a href="https://github.com/ataruno/PetitPomo" target="_blank">
+<img alt="Top Langs" width="600px" src="https://github.com/ataruno/PetitPomo/blob/main/README_image/PetitPomo01.webp" />
+</a>
+
+## KeymapViewer
+<a href="https://github.com/ataruno/KeymapViewer" target="_blank">
+<img alt="Top Langs" width="600px" src="https://github.com/ataruno/KeymapViewer/blob/main/readmeimage/KeymapViewer_event.webp" />
+</a>
 </details>
 
 # Other
 ## 🖥Wallpaper
-[KeyswitchWallpaper](https://github.com/ataruno/KeyswitchWallpaper)
+[KeyswitchWallpaper](https://github.com/ataruno/KeyswitchWallpaper)  
 
 ## 💬LightningTalks
-[天下一キーボードわいわい会 Vol.5](https://github.com/ataruno/TenKeyVol5)
-[キー部 Vol.2](https://github.com/ataruno/key-bu2-_LightningTalks)
+[天下一キーボードわいわい会 Vol.5](https://github.com/ataruno/TenKeyVol5)  
+[キー部 Vol.2](https://github.com/ataruno/key-bu2-_LightningTalks)  
