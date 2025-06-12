@@ -11,54 +11,48 @@
 # ⌨Keyboards
 <div align="left"> 
     <a href="https://github.com/ataruno/A_PIECE_OF_KEYBOARD" target="_blank">
-    <img alt="Top Langs" height="100px" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
-    </a>
+    <img alt="Top Langs" height="100px" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" /></a>
     <a href="https://github.com/ataruno/Mooose" target="_blank">
-    <img alt="Top Langs" height="100px" src="https://github.com/ataruno/Mooose/blob/main/image/Mooose_1.jpg" />
-    </a>
-    </div>
+    <img alt="Top Langs" height="100px" src="https://raw.githubusercontent.com/ataruno/Mooose/main/image/Mooose_1.jpg" /></a>
     <a href="https://github.com/ataruno/MoooseMini" target="_blank">
-    <img alt="Top Langs" height="100px" src="https://github.com/ataruno/MoooseMini/blob/main/Readme_image/MoooseMini01.png" />
-    </a>
+    <img alt="Top Langs" height="100px" src="https://raw.githubusercontent.com//ataruno/MoooseMini/main/Readme_image/MoooseMini01.png" /> </a>
+</div>
+
 <details>
 
 ## A_PIECE_OF_KEYBOARD 🍕
 <a href="https://github.com/ataruno/A_PIECE_OF_KEYBOARD" target="_blank">
-  <img alt="Top Langs" width="400px" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
+  <img alt="Top Langs" width="600px" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
 </a>
 
 ## Mooose
 <a href="https://github.com/ataruno/Mooose" target="_blank">
-  <img alt="Top Langs" width="400px" src="https://github.com/ataruno/Mooose/blob/main/image/Mooose_1.jpg" />
+  <img alt="Top Langs" width="600px" src="https://raw.githubusercontent.com/ataruno/Mooose/main/image/Mooose_1.jpg" />
 </a>
 
 ## MoooseMini
 <a href="https://github.com/ataruno/MoooseMini" target="_blank">
-  <img alt="Top Langs" width="400px" src="https://github.com/ataruno/MoooseMini/blob/main/Readme_image/MoooseMini01.png" />
+  <img alt="Top Langs" width="600px" src="https://raw.githubusercontent.com//ataruno/MoooseMini/main/Readme_image/MoooseMini01.png" />
 </a>
+
+## MoooseFree
+Comming soon
 
 </details>
 
+# 🛠App
+<a href="https://github.com/ataruno/PetitPomo" target="_blank">
+  <img alt="Top Langs" width="600px" src="https://github.com/ataruno/PetitPomo/blob/main/README_image/PetitPomo01.webp" />
+</a>
 
+<a href="https://github.com/ataruno/KeymapViewer" target="_blank">
+  <img alt="Top Langs" width="600px" src="https://github.com/ataruno/KeymapViewer/blob/main/readmeimage/KeymapViewer_event.webp" />
+</a>
 
+# Other
+## 🖥Wallpaper
+[KeyswitchWallpaper](https://github.com/ataruno/KeyswitchWallpaper)
 
-https://github.com/ataruno/PetitPomo
-
-https://github.com/ataruno/PetitPomo/blob/main/README_image/PetitPomo01.webp
-
-
-https://github.com/ataruno/KeyswitchWallpaper
-
-
-https://github.com/ataruno/KeyswitchWallpaper/blob/main/Keyswitch%20Wallpaper1920x1080/KW_Sky1_1920x1080.png
-
-
-https://github.com/ataruno/KeymapViewer
-https://github.com/ataruno/KeymapViewer/blob/main/readmeimage/KeymapViewer_event.webp
-
-
-# LightningTalks
-https://github.com/ataruno/TenKeyVol5
-https://github.com/ataruno/key-bu2-_LightningTalks
-
-
+## 💬LightningTalks
+[天下一キーボードわいわい会 Vol.5](https://github.com/ataruno/TenKeyVol5)
+[キー部 Vol.2](https://github.com/ataruno/key-bu2-_LightningTalks)
