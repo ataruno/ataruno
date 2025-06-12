@@ -22,7 +22,5 @@ Here are some ideas to get you started:
 I'm a self-taught developer in Japan.  
 I love building custom keyboards, experimenting with firmware like QMK/ZMK, and exploring 3D printing.  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ataruno&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<img src="https://github-readme-stats.vercel.app/api?username=ataruno&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-// <img src="https://github-profile-trophy.vercel.app/?username=ataruno&theme=juicyfresh&no-bg=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ataruno&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p><img src="https://github-readme-stats.vercel.app/api?username=ataruno&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
