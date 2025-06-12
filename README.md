@@ -75,7 +75,7 @@ Comming soon
 * [自作キーボードとAutoHotKeyとPowerPointの最強タッグ](https://note.com/ataruno/n/nb9e89c14778f)
 
 # Links
-[X(Twitter)](https://x.com/ataruno_key), [youtube](https://www.youtube.com/@ataruno_key/featured), [Booth(shop)](https://ataruno.booth.pm/)  
+[X(Twitter)](https://x.com/ataruno_key), [Youtube](https://www.youtube.com/@ataruno_key/featured), [Booth(shop)](https://ataruno.booth.pm/)  
 
 
 # 🏃‍♀️ Activities
