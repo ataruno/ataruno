@@ -2,9 +2,6 @@
 ⌨ I'm a self-made keyboard developer in Japan.  
 😍 I love building custom keyboards, experimenting with firmware like QMK/ZMK, and exploring 3D printing.  
 
-# Links
-[X(Twitter)](https://x.com/ataruno_key),[youtube](https://www.youtube.com/@ataruno_key/featured),[Booth(shop)](https://ataruno.booth.pm/)  
-
 # ⌨Keyboards
 <div align="left"> 
     <a href="https://github.com/ataruno/A_PIECE_OF_KEYBOARD" target="_blank">
@@ -76,6 +73,10 @@ Comming soon
 * [陶器製「陶キーキャップ」の作り方](https://note.com/ataruno/n/nbba3ae3e3fc5)
 * [ロータリーエンコーダのクリック感をなくすプチ改造](https://note.com/ataruno/n/nfdbef92c8a3c)
 * [自作キーボードとAutoHotKeyとPowerPointの最強タッグ](https://note.com/ataruno/n/nb9e89c14778f)
+
+# Links
+[X(Twitter)](https://x.com/ataruno_key), [youtube](https://www.youtube.com/@ataruno_key/featured), [Booth(shop)](https://ataruno.booth.pm/)  
+
 
 # 🏃‍♀️ Activities
 <p align = "left">
