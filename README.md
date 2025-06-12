@@ -10,8 +10,7 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataruno&theme=vue-dark&layout=compact" />
 </div>
 
-## Keyboards
-
-<img alt="Top Langs" height="170px" src="https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
-
-
+## ⌨Keyboards
+<a href="https://github.com/ataruno/A_PIECE_OF_KEYBOARD" target="_blank">
+  <img alt="Top Langs" with="250px" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
+</a>
