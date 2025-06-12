@@ -10,9 +10,11 @@
 
 # ⌨Keyboards
 <div align="left"> 
-  <img alt="1" height="150px" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
-  <img alt="2" height="150px" src="https://github.com/ataruno/Mooose/blob/main/image/Mooose_1.jpg" />
-  <img alt="3" height="150px" src="https://github.com/ataruno/MoooseMini/blob/main/Readme_image/MoooseMini01.png" />
+    <a href="https://github.com/ataruno/A_PIECE_OF_KEYBOARD" target="_blank">
+    <img alt="Top Langs" height="150px" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
+    </a>
+    <img alt="2" height="150px" src="https://github.com/ataruno/Mooose/blob/main/image/Mooose_1.jpg" />
+    <img alt="3" height="150px" src="https://github.com/ataruno/MoooseMini/blob/main/Readme_image/MoooseMini01.png" />
 </div>
 
 <details>
