@@ -22,17 +22,17 @@
 
 ## A_PIECE_OF_KEYBOARD 🍕
 <a href="https://github.com/ataruno/A_PIECE_OF_KEYBOARD" target="_blank">
-  <img alt="Top Langs" width="600px" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
+  <img alt="Top Langs" width="700px" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
 </a>
 
 ## Mooose
 <a href="https://github.com/ataruno/Mooose" target="_blank">
-  <img alt="Top Langs" width="600px" src="https://raw.githubusercontent.com/ataruno/Mooose/main/image/Mooose_1.jpg" />
+  <img alt="Top Langs" width="700px" src="https://raw.githubusercontent.com/ataruno/Mooose/main/image/Mooose_1.jpg" />
 </a>
 
 ## MoooseMini
 <a href="https://github.com/ataruno/MoooseMini" target="_blank">
-  <img alt="Top Langs" width="600px" src="https://raw.githubusercontent.com//ataruno/MoooseMini/main/Readme_image/MoooseMini01.png" />
+  <img alt="Top Langs" width="700px" src="https://raw.githubusercontent.com//ataruno/MoooseMini/main/Readme_image/MoooseMini01.png" />
 </a>
 
 ## MoooseFree
@@ -41,13 +41,22 @@ Comming soon
 </details>
 
 # 🛠App
-<a href="https://github.com/ataruno/PetitPomo" target="_blank">
-  <img alt="Top Langs" width="600px" src="https://github.com/ataruno/PetitPomo/blob/main/README_image/PetitPomo01.webp" />
-</a>
+<div align="left"> 
+    <a href="https://github.com/ataruno/PetitPomo" target="_blank">
+    <img alt="" height="100px" src="https://github.com/ataruno/PetitPomo/blob/main/README_image/PetitPomo01.webp" /></a>
+    <a href="https://github.com/ataruno/KeymapViewer" target="_blank">
+    <img alt="" height="100px" src="https://github.com/ataruno/KeymapViewer/blob/main/readmeimage/KeymapViewer_event.webp" /></a>
+</div>
 
-<a href="https://github.com/ataruno/KeymapViewer" target="_blank">
-  <img alt="Top Langs" width="600px" src="https://github.com/ataruno/KeymapViewer/blob/main/readmeimage/KeymapViewer_event.webp" />
-</a>
+<details>
+    <a href="https://github.com/ataruno/PetitPomo" target="_blank">
+    <img alt="Top Langs" width="600px" src="https://github.com/ataruno/PetitPomo/blob/main/README_image/PetitPomo01.webp" />
+    </a>
+
+    <a href="https://github.com/ataruno/KeymapViewer" target="_blank">
+    <img alt="Top Langs" width="600px" src="https://github.com/ataruno/KeymapViewer/blob/main/readmeimage/KeymapViewer_event.webp" />
+    </a>
+</details>
 
 # Other
 ## 🖥Wallpaper
