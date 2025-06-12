@@ -10,7 +10,7 @@
 
 # ⌨Keyboards
 <div align="left"> 
-    <a href="" target="_blank">
+    <a href=none target="_blank">
     <img alt="Top Langs" height="150px" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
     </a>
     <img alt="2" height="150px" src="https://github.com/ataruno/Mooose/blob/main/image/Mooose_1.jpg" />
