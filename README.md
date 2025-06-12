@@ -22,5 +22,8 @@ Here are some ideas to get you started:
 I'm a self-taught developer in Japan.  
 I love building custom keyboards, experimenting with firmware like QMK/ZMK, and exploring 3D printing.  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ataruno&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p><img src="https://github-readme-stats.vercel.app/api?username=ataruno&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=ataruno&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataruno&theme=vue-dark&layout=compact" />
+</div>
