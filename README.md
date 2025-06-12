@@ -22,17 +22,17 @@
 
 ## A_PIECE_OF_KEYBOARD 🍕
 <a href="https://github.com/ataruno/A_PIECE_OF_KEYBOARD" target="_blank">
-  <img alt="Top Langs" width="700px" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
+  <img alt="Top Langs" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
 </a>
 
 ## Mooose
 <a href="https://github.com/ataruno/Mooose" target="_blank">
-  <img alt="Top Langs" width="700px" src="https://raw.githubusercontent.com/ataruno/Mooose/main/image/Mooose_1.jpg" />
+  <img alt="Top Langs" src="https://raw.githubusercontent.com/ataruno/Mooose/main/image/Mooose_1.jpg" />
 </a>
 
 ## MoooseMini
 <a href="https://github.com/ataruno/MoooseMini" target="_blank">
-  <img alt="Top Langs" width="700px" src="https://raw.githubusercontent.com//ataruno/MoooseMini/main/Readme_image/MoooseMini01.png" />
+  <img alt="Top Langs" src="https://raw.githubusercontent.com//ataruno/MoooseMini/main/Readme_image/MoooseMini01.png" />
 </a>
 
 ## MoooseFree
