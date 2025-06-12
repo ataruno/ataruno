@@ -75,6 +75,9 @@ Comming soon
 * [自作キーボードとAutoHotKeyとPowerPointの最強タッグ](https://note.com/ataruno/n/nb9e89c14778f)
 
 # 🏃‍♀️ Activities
+<p align = "left">
+	<img src = "https://komarev.com/ghpvc/?username=te9no&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
 <div align="left"> 
   <img alt="" height="170px" src="https://github-readme-stats.vercel.app/api?username=ataruno&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataruno&theme=vue-dark&layout=compact" />
