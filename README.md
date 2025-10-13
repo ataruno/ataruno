@@ -77,10 +77,15 @@
 * [陶器製「陶キーキャップ」の作り方](https://note.com/ataruno/n/nbba3ae3e3fc5)
 * [ロータリーエンコーダのクリック感をなくすプチ改造](https://note.com/ataruno/n/nfdbef92c8a3c)
 * [自作キーボードとAutoHotKeyとPowerPointの最強タッグ](https://note.com/ataruno/n/nb9e89c14778f)
+* [ZMK自作キーボードでWindows11との接続がぶつぶつ切れる問題の解決策](https://note.com/ataruno/n/n39fd767b86ee)
+* [自キーの3Dプリントケースのインフィル工夫すればコトコト音になるんじゃね？](https://note.com/ataruno/n/nec987fb05046)
+* [自キーの3Dプリントケースのインフィルやトップ面を工夫してコトコト音になった！](https://note.com/ataruno/n/n5535d8e70353)
+* [Mooose頒布の舞台裏とこれから](https://note.com/ataruno/n/n0a78ab95a4f4)
+* [XIAO nRF52840背面のBAT-パッドはGNDにつながっている](https://note.com/ataruno/n/n895f65f26ac9)
+などなど更新中！
 
 # Links
 [X(Twitter)](https://x.com/ataruno_key), [Youtube](https://www.youtube.com/@ataruno_key/featured), [Booth(shop)](https://ataruno.booth.pm/)  
-
 
 # 🏃‍♀️ Activities
 <p align = "left">
