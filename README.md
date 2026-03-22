@@ -17,11 +17,6 @@
 <details>
 <summary>Big images...</summary>
 
-## A_PIECE_OF_KEYBOARD 🍕
-<a href="https://github.com/ataruno/A_PIECE_OF_KEYBOARD" target="_blank">
-  <img alt="" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
-</a>
-
 ## Mooose
 <a href="https://github.com/ataruno/Mooose" target="_blank">
   <img alt="" src="https://raw.githubusercontent.com/ataruno/Mooose/main/image/Mooose_1.jpg" />
@@ -39,12 +34,34 @@
 
 </details>
 
+<details>
+<summary>Big images...</summary>
+
+## A_PIECE_OF_KEYBOARD 🍕
+<a href="https://github.com/ataruno/A_PIECE_OF_KEYBOARD" target="_blank">
+  <img alt="" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" />
+</a>
+
+## たい焼キー
+<a href="https://github.com/ataruno/TaiyaKey" target="_blank">
+  <img alt="" src="" />
+</a>
+
+## たい焼キー
+<a href="https://github.com/ataruno/zmk-MarkovChainKeyboard" target="_blank">
+  <img alt="" src="https://github.com/ataruno/zmk-MarkovChainKeyboard/blob/main/README_image/MarkovChainKeyboard.jpg" />
+</a>
+
+</details>
+
 # 🛠App
 <div align="left"> 
     <a href="https://github.com/ataruno/PetitPomo" target="_blank">
     <img alt="" height="100px" src="https://github.com/ataruno/PetitPomo/blob/main/README_image/PetitPomo01.webp" /></a>
     <a href="https://github.com/ataruno/KeymapViewer" target="_blank">
     <img alt="" height="100px" src="https://github.com/ataruno/KeymapViewer/blob/main/readmeimage/KeymapViewer_event.webp" /></a>
+      <a href="https://github.com/ataruno/HitofudeLog" target="_blank">
+    <img alt="" height="100px" src="https://github.com/ataruno/HitofudeLog/blob/main/README_image/HitofudeLog.webp" /></a>
 </div>
 
 <details>
