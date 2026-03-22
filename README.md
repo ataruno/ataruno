@@ -15,7 +15,7 @@
     <a href="https://github.com/ataruno/A_PIECE_OF_KEYBOARD" target="_blank">
     <img alt="" height="120px" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" /></a>
     <a href="https://github.com/ataruno/TaiyaKey" target="_blank">
-    <img alt="" height="120px" src="https://raw.githubusercontent.com//ataruno/MoooseFree/main/Readme_image/MoooseFree.jpg" /> </a>
+    <img alt="" height="120px" src="https://raw.githubusercontent.com//ataruno/TaiyaKey/main/Readme_image/TaiyaKey.jpg" /> </a>
     <a href="https://github.com/ataruno/zmk-MarkovChainKeyboard" target="_blank">
     <img alt="" height="120px" src="https://github.com/ataruno/zmk-MarkovChainKeyboard/blob/main/README_image/MarkovChainKeyboard.jpg" /> </a>
 </div>
