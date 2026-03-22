@@ -5,19 +5,19 @@
 # ⌨Keyboards
 <div align="left"> 
     <a href="https://github.com/ataruno/Mooose" target="_blank">
-    <img alt="" height="100px" src="https://raw.githubusercontent.com/ataruno/Mooose/main/image/Mooose_1.jpg" /></a>
+    <img alt="" height="120px" src="https://raw.githubusercontent.com/ataruno/Mooose/main/image/Mooose_1.jpg" /></a>
     <a href="https://github.com/ataruno/MoooseMini" target="_blank">
-    <img alt="" height="100px" src="https://raw.githubusercontent.com//ataruno/MoooseMini/main/Readme_image/MoooseMini01.png" /> </a>
+    <img alt="" height="120px" src="https://raw.githubusercontent.com//ataruno/MoooseMini/main/Readme_image/MoooseMini01.png" /> </a>
     <a href="https://github.com/ataruno/MoooseFree" target="_blank">
-    <img alt="" height="100px" src="https://raw.githubusercontent.com//ataruno/MoooseFree/main/Readme_image/MoooseFree.jpg" /> </a>
+    <img alt="" height="120px" src="https://raw.githubusercontent.com//ataruno/MoooseFree/main/Readme_image/MoooseFree.jpg" /> </a>
 </div>
 <div align="left"> 
     <a href="https://github.com/ataruno/A_PIECE_OF_KEYBOARD" target="_blank">
-    <img alt="" height="100px" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" /></a>
+    <img alt="" height="120px" src="https://raw.githubusercontent.com/ataruno/A_PIECE_OF_KEYBOARD/main/image/A_PIECE_OF_KEYBOARD_5.jpg" /></a>
     <a href="https://github.com/ataruno/TaiyaKey" target="_blank">
-    <img alt="" height="100px" src="https://raw.githubusercontent.com//ataruno/MoooseFree/main/Readme_image/MoooseFree.jpg" /> </a>
+    <img alt="" height="120px" src="https://raw.githubusercontent.com//ataruno/MoooseFree/main/Readme_image/MoooseFree.jpg" /> </a>
     <a href="https://github.com/ataruno/zmk-MarkovChainKeyboard" target="_blank">
-    <img alt="" height="100px" src="https://github.com/ataruno/zmk-MarkovChainKeyboard/blob/main/README_image/MarkovChainKeyboard.jpg" /> </a>
+    <img alt="" height="120px" src="https://github.com/ataruno/zmk-MarkovChainKeyboard/blob/main/README_image/MarkovChainKeyboard.jpg" /> </a>
 </div>
 
 <details>
