@@ -61,7 +61,7 @@
     <img alt="" height="100px" src="https://github.com/ataruno/PetitPomo/blob/main/README_image/PetitPomo01.webp" /></a>
     <a href="https://github.com/ataruno/KeymapViewer" target="_blank">
     <img alt="" height="100px" src="https://github.com/ataruno/KeymapViewer/blob/main/readmeimage/KeymapViewer_event.webp" /></a>
-      <a href="https://github.com/ataruno/HitofudeLog" target="_blank">
+    <a href="https://github.com/ataruno/HitofudeLog" target="_blank">
     <img alt="" height="100px" src="https://github.com/ataruno/HitofudeLog/blob/main/README_image/HitofudeLog.webp" /></a>
 </div>
 
@@ -77,6 +77,10 @@
   <a href="https://github.com/ataruno/KeymapViewer" target="_blank">
     <img alt="KeymapViewer" src="https://github.com/ataruno/KeymapViewer/blob/main/readmeimage/KeymapViewer_event.webp" />
   </a>
+
+  ## HitofudeLog  
+  <a href="https://github.com/ataruno/HitofudeLog" target="_blank">
+  <img alt="" height="100px" src="https://github.com/ataruno/HitofudeLog/blob/main/README_image/HitofudeLog.webp" /></a>
 
 </details>
 
