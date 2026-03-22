@@ -80,7 +80,7 @@
 
   ## HitofudeLog  
   <a href="https://github.com/ataruno/HitofudeLog" target="_blank">
-  <img alt="" height="100px" src="https://github.com/ataruno/HitofudeLog/blob/main/README_image/HitofudeLog.webp" /></a>
+  <img alt="HitofudeLog" src="https://github.com/ataruno/HitofudeLog/blob/main/README_image/HitofudeLog.webp" /></a>
 
 </details>
 
