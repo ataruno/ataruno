@@ -19,6 +19,10 @@
     <a href="https://github.com/ataruno/zmk-MarkovChainKeyboard" target="_blank">
     <img alt="" height="120px" src="https://github.com/ataruno/zmk-MarkovChainKeyboard/blob/main/README_image/MarkovChainKeyboard.jpg" /> </a>
 </div>
+<div align="left"> 
+    <a href="https://github.com/ataruno/zmk-WoooL" target="_blank">
+    <img alt="" height="120px" src="https://raw.githubusercontent.com/ataruno/zmk-WoooL/blob/main/README_image/WooL_HW_front.jpg" /></a>
+</div>
 
 <details>
 <summary>Big images...</summary>
@@ -52,6 +56,10 @@
 <a href="https://github.com/ataruno/zmk-MarkovChainKeyboard" target="_blank">
   <img alt="" src="https://github.com/ataruno/zmk-MarkovChainKeyboard/blob/main/README_image/MarkovChainKeyboard.jpg" />
 </a>
+
+## WoooL
+<a href="https://github.com/ataruno/zmk-WoooL" target="_blank">
+  <img alt="" src="https://raw.githubusercontent.com/ataruno/zmk-WoooL/blob/main/README_image/WooL_HW_front.jpg" /></a>
 
 </details>
 
