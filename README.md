@@ -21,7 +21,7 @@
 </div>
 <div align="left"> 
     <a href="https://github.com/ataruno/zmk-WoooL" target="_blank">
-    <img alt="" height="120px" src="https://raw.githubusercontent.com/ataruno/zmk-WoooL/blob/main/README_image/WooL_WH_front.jpg" /></a>
+    <img alt="" height="120px" src="https://github.com/ataruno/zmk-WoooL/blob/main/README_image/WoooL_WH_front.jpg" /></a>
 </div>
 
 <details>
@@ -59,7 +59,7 @@
 
 ## WoooL
 <a href="https://github.com/ataruno/zmk-WoooL" target="_blank">
-  <img alt="" src="https://raw.githubusercontent.com/ataruno/zmk-WoooL/blob/main/README_image/WooL_WH_front.jpg" /></a>
+  <img alt="" src="https://github.com/ataruno/zmk-WoooL/blob/main/README_image/WoooL_WH_front.jpg" /></a>
 
 </details>
 
